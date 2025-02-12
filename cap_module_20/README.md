@@ -1,4 +1,4 @@
-# Nutritional Data Analysis and Meal Suggestion Project
+# AI-Powered Nutrition Planner
 
 ## Overview
 
