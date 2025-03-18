@@ -24,7 +24,7 @@ The AI-Powered Nutrition Planner helps busy people, fitness lovers, or anyone wa
 
 ## Data Acquisition
 **Data Used:** We worked with a dataset of 375 foods, covering everything from apples to pizza. It includes columns like Food, Grams, Calories, Protein, Fat, and Carbs, plus categories (e.g., Dairy, Meat).  
-**Source:** This came pre-collected, likely from a nutrition database, giving us a solid mix of everyday foods.  
+**Source:** We started with the "Nutrition details for most common foods" dataset from Kaggle ([link](https://www.kaggle.com/datasets/niharika41298/nutrition-details-for-most-common-foods)), then added our own entries to reach 375 foods.
 **Why This Data:** It’s diverse—calories range from 0 to 1373, protein from 0 to 89g—letting us build flexible plans. We didn’t need multiple sources since this single set covers meats, veggies, carbs, and more.  
 **Visualization:** In the notebook, a bar chart shows category counts (e.g., 34 Dairy items, 25 Vegetables R-Z), proving we’ve got enough variety to solve our meal-planning problem.
 
