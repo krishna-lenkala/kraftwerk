@@ -1,7 +1,7 @@
-# Capstone Project: Personalized Meal Planner Final Report
+# Capstone Project: AI-Powered Nutrition Planner Final Report
 
 ## Summary
-The Personalized Meal Planner helps busy people, fitness lovers, or anyone wanting a balanced diet create daily meal plans quickly. It aims to hit specific nutrition goals—2000 calories, 60g protein, 65g fat, and 250g carbs—using a dataset of 375 foods. By combining simple math models and a smart optimization tool, it suggests tasty, varied meals without the hassle of planning by hand.
+The AI-Powered Nutrition Planner helps busy people, fitness lovers, or anyone wanting a balanced diet create daily meal plans quickly. It aims to hit specific nutrition goals—2000 calories, 60g protein, 65g fat, and 250g carbs—using a dataset of 375 foods. By combining simple math models and a smart optimization tool, it suggests tasty, varied meals without the hassle of planning by hand.
 
 ---
 
